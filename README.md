@@ -7,7 +7,7 @@ https://i.imgur.com/0ltlYET.gifv
 
 This whole project was done using PHP, mySQL, and HTML, and styling with CSS.
 
-Co-Authored-By: Logan Anderson <kozuk0619@users.noreply.github.com> and Shawn Finnerty <spf15@my.fsu.edu>
+Authored-By: Logan Anderson https://github.com/kozuk0619/, Jesse Peek https://github.com/JShelf/ and Shawn Finnerty <spf15@my.fsu.edu>
 ACM Job Posting
 The application that our group presented is a job portal. Essentially, there are two views a user can have while using the application. One view is as a company representative, and the other is as a student. The application is specific to computer science related majors at the Florida State university. The application allows for a expedited process for employers and students to get in contact with each other. The company representative has the ability to submit, and maintain, job postings and do searches for students based off of skills. In addition, the company representative is able to download any resumes or cover letters that were uploaded by the students. On the student side, one is able to upload cover letters and resumes (the application has several guidelines to this process, this will be gone into more depth later). A student is also able to search for job postings and pull up the contact information for the company representative that posted it. Finally, both the student and the company representative have the ability to maintain a profile with information that help sustain the searching ability. While this is just a brief overview of the application as a whole, it should give enough background knowledge to proceed to more advanced explanations.
 The decision to choose this application.
